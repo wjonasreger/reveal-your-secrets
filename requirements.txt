@@ -1,0 +1,5 @@
+1password
+openai
+requests
+python-dotenv
+nest_asyncio
